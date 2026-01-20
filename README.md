@@ -31,8 +31,8 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on: **My personal portfolio**
-- 🌱 I’m currently learning: **Japanese (Genki)**
+- 🔭 I’m currently working on: **Store App**
+- 🌱 I’m currently learning: **Next.js**
 - 🐧 OS: **Fedora Linux** (Workstation)
 - 📍 Location: **Uzbekistan**
 
