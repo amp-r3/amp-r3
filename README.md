@@ -1,47 +1,57 @@
-<div align="center">
+# Amir Ergashev
 
-  <h1>Hi 👋, I'm Amir</h1>
+**Frontend Developer** · React Ecosystem · UI/UX
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Frontend+Developer;Linux+User+(Fedora);Creating+smooth+UI%2FUX" alt="Typing SVG" />
-  </a>
+[![Telegram](https://img.shields.io/badge/Telegram-@amp__r3-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amp_r3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir_Ergashev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-ergashev-96718a396)
+[![Email](https://img.shields.io/badge/ProtonMail-amp__r3@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:amp_r3@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amp3re.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://amp3re.netlify.app/)
 
-  <h3>Frontend Developer focused on React ecosystem and UI/UX</h3>
+---
 
-  <br/>
+## 👨‍💻 About Me
 
-  <a href="https://t.me/amp_r3" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amir-ergashev-96718a396" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:amp_r3@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://amp3re.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+Frontend developer from **Uzbekistan**, focused on building clean, maintainable, and responsive interfaces. I started my journey about a year ago through structured courses and self-study, and I am currently looking for my **first commercial role** (Junior / Internship).
 
-</div>
+- 📖 **Currently Learning:** Next.js (SSR, App Router) and advanced React patterns.
+- 🐧 **Daily Driver:** Fedora Linux Workstation.
+- 💬 **Open to:** Junior Frontend roles, internships, and open-source collaboration.
 
-<br/>
-<hr/>
-<br/>
+---
 
-### 🧐 About Me
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on: **Store App**
-- 🌱 I’m currently learning: **Next.js**
-- 🐧 OS: **Fedora Linux** (Workstation)
-- 📍 Location: **Uzbekistan**
+### **Store** — E-commerce Web Application
+A fully functional online store interface built to demonstrate state management, API integration, and responsive design.
+- **Tech Stack:** React, TypeScript, Redux (RTK Query), SCSS
+- **Key Features:** Product catalog, shopping cart logic, asynchronous data fetching via DummyJSON API.
+- 🔗 [Live Demo](https://amp-r3-store.netlify.app/) | 💻 [Source Code](https://github.com/amp-r3/store)
 
-<br/>
+---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,framer" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vite,figma,git,linux,fedora" />
-</div>
+**Languages** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Tools** ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amp-r3&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+*Open to Junior Frontend roles · Uzbekistan / Remote*
