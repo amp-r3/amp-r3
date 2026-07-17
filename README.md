@@ -1,4 +1,4 @@
-# Hi, I'm Amir Ergashev 👋
+# Hi, I'm Amir 👋
 
 **Frontend Developer** — React Ecosystem · UI/UX · Uzbekistan
 
