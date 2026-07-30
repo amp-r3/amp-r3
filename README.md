@@ -85,7 +85,7 @@ A React Native recreation of the Google Clock app — built to explore native mo
 
 <p align="center">
   <a href="https://github.com/amp-r3">
-    <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=amp-r3&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+    <img height="160" src="https://streak-stats.demolab.com?user=amp-r3&theme=cobalt&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
