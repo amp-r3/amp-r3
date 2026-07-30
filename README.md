@@ -1,6 +1,10 @@
 # Hi, I'm Amir 👋
 
-**Frontend Developer** — React Ecosystem · UI/UX · Uzbekistan
+<p>
+  <a href="https://github.com/amp-r3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2CA5E0&vCenter=true&width=500&lines=Frontend+Developer;React+Ecosystem;UI%2FUX+Enthusiast;Based+in+Uzbekistan" alt="Typing SVG" />
+  </a>
+</p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@amp__r3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amp_r3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amir_Ergashev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-ergashev-96718a396)
@@ -80,9 +84,29 @@ A React Native recreation of the Google Clock app — built to explore native mo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img height="160" src="https://github-readme-stats-five-teal-79.vercel.app/api?username=amp-r3&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" /> -->
-  <img height="160" src="https://github-readme-stats-five-teal-79.vercel.app/api/top-langs/?username=amp-r3&layout=compact&theme=cobalt&hide_border=true&langs_count=6" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=amp-r3&theme=cobalt&hide_border=true)](https://git.io/streak-stats" />
+  <a href="https://github.com/amp-r3">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=amp-r3&theme=cobalt&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amp-r3">
+    <img src="https://metrics.lecoq.io/amp-r3?template=classic&base=&plugin_languages=yes&plugin_languages_details=bytes-size%2C+percentage&plugin_languages_limit=6&config_timezone=Asia%2FTashkent" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amp-r3">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amp-r3&theme=cobalt&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amp-r3/amp-r3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amp-r3/amp-r3/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amp-r3/amp-r3/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
