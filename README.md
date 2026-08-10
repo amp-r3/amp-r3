@@ -26,15 +26,16 @@ Frontend developer focused on building interfaces where **comfort and predictabi
 
 ## 🚀 Featured Projects
 
-### 🛒 Store — E-commerce Web Application
+### 🛒 Store — Full-Stack E-Commerce Platform
 
-A fully functional online store interface built to demonstrate real-world state management, API integration, and responsive design.
+A production-shaped online store: catalog, cart, real checkout, reviews, realtime notifications, and an admin panel.
 
-- **Tech Stack:** React · TypeScript · Redux Toolkit · RTK Query · SCSS
-- **Architecture highlight:** A single unified query entry point collects state from search, category filters, and sort controls — **URL is the single source of truth**, making every view shareable and browser-history friendly. All parameters are synced to the URL and sent as one composed request to the backend.
-- **Features:** Product catalog, shopping cart, async data fetching via DummyJSON API
+- **Tech Stack:** Next.js 16 (App Router) · React 19 · TypeScript 5.9 · Redux Toolkit + RTK Query · Supabase (PostgreSQL + Auth) · SCSS Modules · Zod
+- **Architecture:** Strict Feature-Sliced Design, with layer dependencies and slice public APIs enforced by ESLint — plus a deliberate rendering mode per route (ISR / SSR / guarded CSR).
+- **URL as the single source of truth** for catalog state (`?q=`, `?sortBy=`, `?category=`) — shareable, bookmarkable, Back/Forward-correct.
+- **Backend:** Postgres locked down with Row Level Security; orders are placed through one transactional `SECURITY DEFINER` RPC. Covered by Playwright E2E on the full funnel.
 
-🔗 [Live Demo](https://amp-r3-store.netlify.app/) · 💻 [Source Code](https://github.com/amp-r3/store)
+🔗 [Live Demo](https://store-mauve-nine.vercel.app/) · 💻 [Source Code](https://github.com/amp-r3/store)
 
 ---
 
